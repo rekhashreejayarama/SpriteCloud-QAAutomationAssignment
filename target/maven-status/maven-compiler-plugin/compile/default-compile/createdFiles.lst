@@ -1,0 +1,8 @@
+pages\HomePageSD.class
+pages\LoginPageSD.class
+pages\CheckoutPageSD.class
+pages\CheckoutOverviewPageSD.class
+pages\CheckoutCompletePageSD.class
+utils\ConfigReader.class
+utils\WebActions.class
+factory\DriverFactory.class
