@@ -4,12 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a91f91-4281-4085-b1cf-232285aae520" name="Changes" comment="" />
+    <list default="true" id="40a91f91-4281-4085-b1cf-232285aae520" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factory/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CheckoutCompletePageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CheckoutCompletePageSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CheckoutOverviewPageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CheckoutOverviewPageSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CheckoutPageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CheckoutPageSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePageSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPageSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/WebActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/WebActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/HTMLReport/ExecutionResult.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/HTMLReport/ExecutionResult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/WebActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/WebActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-07-08T00-29-50_627-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-07-08T00-29-50_627.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-testrunner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-testrunner.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testrunner.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testrunner.TestRunner.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rekhashreejayarama"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rekhashreejayarama/SpriteCloud-QAAutomationAssignment.git",
+    "accountId": "a48c5244-74ce-40be-b1ba-040b409f16cf"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -28,13 +58,14 @@
     "Maven.SpriteCloud_QAAssignment [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor": "Run",
     "Maven.SpriteCloud_QAAssignment [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/SpriteCloud_QAAssignment",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">

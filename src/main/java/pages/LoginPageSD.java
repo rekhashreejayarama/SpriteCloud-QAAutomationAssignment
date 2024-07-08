@@ -8,7 +8,6 @@ import utils.WebActions;
 
 public class LoginPageSD {
     private Page page;
-    private BrowserContext context;
     private final Locator USERNAME_EDITBOX;
     private final Locator PASSWORD_EDITBOX;
     private final Locator LOGIN_BUTTON;

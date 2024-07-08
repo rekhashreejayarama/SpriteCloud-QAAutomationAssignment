@@ -7,15 +7,12 @@ import org.junit.Assert;
 
 public class HomePageSD {
     private Page page;
-    private BrowserContext context;
     private final Locator APP_LOGO;
     private final Locator BURGER_MENU;
     private final Locator LOGOUT;
     private final Locator ADDTOCARTBUTTON;
     private final Locator SHOPPING_CART_LINK;
     private final Locator CHEKOUT_BUTTON;
-
-
 
     public HomePageSD(Page page) {
         this.page = page;
@@ -50,6 +47,7 @@ public class HomePageSD {
     public void clickLogout() {
         LOGOUT.click();
     }
+
     public String verifyTitle() {
         String title = page.title();
         return title;}

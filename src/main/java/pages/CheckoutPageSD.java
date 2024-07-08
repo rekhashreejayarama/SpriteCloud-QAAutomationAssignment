@@ -6,7 +6,6 @@ import com.microsoft.playwright.Page;
 
 public class CheckoutPageSD {
     private Page page;
-    private BrowserContext context;
 
     private final Locator CHECKOUTPAGE_TITLE;
     private final Locator FIRSTNAME;

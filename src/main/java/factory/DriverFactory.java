@@ -43,9 +43,5 @@ public class DriverFactory {
         return threadLocalDriver.get(); // Will return Initialized Thread Local Driver
     }
 
-    public static synchronized BrowserContext getContext() {
-        return threadLocalContext.get(); // Will return Initialized Thread Local Context
-    }
-
 }
 

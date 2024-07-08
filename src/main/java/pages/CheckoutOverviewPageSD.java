@@ -7,7 +7,6 @@ import org.junit.Assert;
 
 public class CheckoutOverviewPageSD {
     private Page page;
-    private BrowserContext context;
 
     private final Locator CHECKOUTOVERVIEWPAGE_TITLE;
     private final Locator FINISH_BUTTON;

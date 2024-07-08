@@ -7,7 +7,6 @@ import org.junit.Assert;
 
 public class CheckoutCompletePageSD {
     private Page page;
-    private BrowserContext context;
 
     private final Locator CHECKOUTCOMPLETEPAGE_TITLE;
     private final Locator BACKHOME_BUTTON;
