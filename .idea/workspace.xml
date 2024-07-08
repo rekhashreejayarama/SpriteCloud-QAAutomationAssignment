@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a91f91-4281-4085-b1cf-232285aae520" name="Changes" comment="">
+    <list default="true" id="40a91f91-4281-4085-b1cf-232285aae520" name="Changes" comment="updated the scripts by deleting unwanted comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factory/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CheckoutCompletePageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CheckoutCompletePageSD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CheckoutOverviewPageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CheckoutOverviewPageSD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CheckoutPageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CheckoutPageSD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePageSD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPageSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPageSD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/WebActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/WebActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/HTMLReport/ExecutionResult.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/HTMLReport/ExecutionResult.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/WebActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/WebActions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-07-08T00-29-50_627-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-07-08T00-29-50_627.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-07-08T11-08-42_347.dumpstream" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-testrunner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-testrunner.TestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testrunner.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testrunner.TestRunner.txt" afterDir="false" />
     </list>
@@ -111,6 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720203969335</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated the scripts by deleting unwanted comments">
+      <option name="closed" value="true" />
+      <created>1720429873550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720429873550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated the scripts by deleting unwanted comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the scripts by deleting unwanted comments" />
   </component>
 </project>

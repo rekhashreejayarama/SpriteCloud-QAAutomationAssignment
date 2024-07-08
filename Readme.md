@@ -26,15 +26,22 @@ The project uses step definition file to capture all the relevant UI functionali
 ### Report
 The project uses *Extent Reports* to provide test reporting functionalities. 
 ### Feature File
-[TCs.feature](.../src/test/resources/features) demonstrates an example question answer regression test script.
+Demonstrates the functionality of the application.
 
  
-Steps to run the Automation Script
-Cloning the repo from GitHub : https://github.com/rekhashreejayarama/SpriteCloud-QAAssignment.git
+**Steps to run the Automation Script:**
+
+Step 1:
+
+Cloning the repo from GitHub : https://github.com/rekhashreejayarama/SpriteCloud-QAAutomationAssignment.git
+
+Step 2:
 
 Go to the path where above repo has been cloned, 
 Open the repo in an IDE Open terminal in IDE and run below command 
 
 Command - ``mvn clean test``
 
-After execution, Go to the target folder -->HTMLReport inorder to analyze the execution report.
+**Report Generation**
+
+After execution, Go to the target folder --> HTMLReport ExecutionResult.html inorder to analyze the execution report.
